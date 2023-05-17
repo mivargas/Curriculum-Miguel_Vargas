@@ -10151,10 +10151,10 @@ section.resume-section .resume-section-content {
       
       @media (max-width: 576px) {
           .tooltip-inner {
-              font-size: 13px;        
+              font-size: 12px;        
           }
           .tooltip-inner {
-              max-width: 148px;
+              max-width: 120px;
           }
       }
 
